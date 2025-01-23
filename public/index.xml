@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Welcome! on Personal Website - Shreyas Agarwal</title>
+    <link>http://localhost:1313/tutorial-website-hugo/</link>
+    <description>Recent content in Welcome! on Personal Website - Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tutorial-website-hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/tutorial-website-hugo/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tutorial-website-hugo/about/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/cv.png&#34; alt=&#34;Me&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Hey! I&amp;rsquo;m Shreyas Agarwal - an Integrated Masters Student at IISER Kolkata navigating the blend of biology and data science. Currently exploring plant-insect interactions through network biology at ETH Zurich.&lt;/p&gt;&#xA;&lt;p&gt;Fueled by a fascination for data&amp;rsquo;s transformative power, I craft insights with a commitment to continuous learning and collaboration. My work embodies seamless data-driven revelations, highlighted in collaborative ventures such as my Master&amp;rsquo;s Thesis with researchers from India and Switzerland.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

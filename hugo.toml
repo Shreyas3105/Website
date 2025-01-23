@@ -1,0 +1,25 @@
+baseURL = 'https://giava90.github.io/tutorial-website-hugo/'
+languageCode = 'en-us'
+title = 'Personal Website - Shreyas Agarwal'
+theme = 'gohugo-theme-ananke'
+ 
+[menu]
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+ 
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+ 
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+ 
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 5
