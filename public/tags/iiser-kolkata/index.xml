@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IISER Kolkata on Shreyas Agarwal</title>
+    <link>http://localhost:1313/tags/iiser-kolkata/</link>
+    <description>Recent content in IISER Kolkata on Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Apr 2023 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/iiser-kolkata/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Plant Insect Interaction - A Metaweb Analysis</title>
+      <link>http://localhost:1313/projects/chapter-2/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-2/</guid>
+      <description>&lt;p&gt;The complex interactions between plants and insects are foundational to maintaining ecosystem stability and biodiversity. Switzerland, with its varied landscapes and distinct ecological zones, provides an ideal setting to study these dynamics. This research project focuses on developing trait-matching algorithms to quantify plant-insect interactions and conducting robustness analysis on constructed metawebs to assess their resilience against environmental perturbations.&#xA;By combining trait-based approaches with network analysis, this study seeks to understand the mechanisms driving plant-insect interactions and the factors that influence network stability in Switzerland&amp;rsquo;s ecosystems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

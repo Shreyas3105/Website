@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shreyas Agarwal</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in Projects on Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temporal and Spatial Stability of Plant Pollinator Networks in Coffee Agroforests</title>
+      <link>http://localhost:1313/projects/chapter-1/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-1/</guid>
+      <description>&lt;p&gt;The coffee agroforests of India host diverse plant-pollinator networks that contribute significantly to both agricultural productivity and biodiversity conservation. Understanding the temporal and spatial stability of these networks is crucial to identifying factors that sustain ecosystem services while balancing the economic needs of coffee farmers. This research project aims to investigate how seasonal changes, habitat heterogeneity, and farming practices affect the structure and stability of plant-pollinator interactions in coffee agroforests.&#xA;By studying temporal variations (e.g., seasonal blooming and pollinator activity) and spatial variations (e.g., farm size and native versus exotic tree cover), this research seeks to provide actionable insights into promoting resilience in these ecosystems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plant Insect Interaction - A Metaweb Analysis</title>
+      <link>http://localhost:1313/projects/chapter-2/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-2/</guid>
+      <description>&lt;p&gt;The complex interactions between plants and insects are foundational to maintaining ecosystem stability and biodiversity. Switzerland, with its varied landscapes and distinct ecological zones, provides an ideal setting to study these dynamics. This research project focuses on developing trait-matching algorithms to quantify plant-insect interactions and conducting robustness analysis on constructed metawebs to assess their resilience against environmental perturbations.&#xA;By combining trait-based approaches with network analysis, this study seeks to understand the mechanisms driving plant-insect interactions and the factors that influence network stability in Switzerland&amp;rsquo;s ecosystems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Shreyas Agarwal</title>
+      <link>http://localhost:1313/projects/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/publications/</guid>
+      <description>&lt;p&gt;Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

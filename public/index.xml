@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shreyas Agarwal</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temporal and Spatial Stability of Plant Pollinator Networks in Coffee Agroforests</title>
+      <link>http://localhost:1313/projects/chapter-1/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-1/</guid>
+      <description>&lt;p&gt;The coffee agroforests of India host diverse plant-pollinator networks that contribute significantly to both agricultural productivity and biodiversity conservation. Understanding the temporal and spatial stability of these networks is crucial to identifying factors that sustain ecosystem services while balancing the economic needs of coffee farmers. This research project aims to investigate how seasonal changes, habitat heterogeneity, and farming practices affect the structure and stability of plant-pollinator interactions in coffee agroforests.&#xA;By studying temporal variations (e.g., seasonal blooming and pollinator activity) and spatial variations (e.g., farm size and native versus exotic tree cover), this research seeks to provide actionable insights into promoting resilience in these ecosystems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Plant Insect Interaction - A Metaweb Analysis</title>
+      <link>http://localhost:1313/projects/chapter-2/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-2/</guid>
+      <description>&lt;p&gt;The complex interactions between plants and insects are foundational to maintaining ecosystem stability and biodiversity. Switzerland, with its varied landscapes and distinct ecological zones, provides an ideal setting to study these dynamics. This research project focuses on developing trait-matching algorithms to quantify plant-insect interactions and conducting robustness analysis on constructed metawebs to assess their resilience against environmental perturbations.&#xA;By combining trait-based approaches with network analysis, this study seeks to understand the mechanisms driving plant-insect interactions and the factors that influence network stability in Switzerland&amp;rsquo;s ecosystems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>&lt;div style=&#34;max-width: 80%; margin: 0 auto;&#34;&gt;&#xD;&#xA;  &lt;div style=&#34;display: flex; flex-direction: column; align-items: center; margin-bottom: 2em;&#34;&gt;&#xD;&#xA;    &lt;img src=&#34;../images/shreyas.avif&#34; alt=&#34;Shreyas Agarwal&#34; style=&#34;border-radius: 50%; width: 150px; height: 150px; margin-bottom: 20px;&#34;&gt;&#xD;&#xA;    &lt;p&gt;Hey! I&#39;m &lt;strong&gt;Shreyas Agarwal&lt;/strong&gt; - an Integrated Masters Student at IISER Kolkata navigating the blend of biology and data science. Currently exploring plant-insect interactions through network biology at ETH Zurich.&lt;/p&gt;&#xD;&#xA;    &lt;p&gt;Fueled by a fascination for data&#39;s transformative power, I craft insights with a commitment to continuous learning and collaboration. My work embodies seamless data-driven revelations, highlighted in collaborative ventures such as my Master&#39;s Thesis with researchers from India and Switzerland.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/about/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out &lt;a href=&#34;https://formspree.io/&#34;&gt;Formspree&lt;/a&gt; for a simple, free form service.&lt;/p&gt;&#xA;&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;&lt;form class=&#34;black-80 sans-serif&#34; accept-charset=&#34;UTF-8&#34; action=&#34;https://example.com&#34; method=&#34;POST&#34; role=&#34;form&#34;&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34;  for=&#34;name&#34;&gt;Your Name&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;text&#34; id=&#34;name&#34; name=&#34;name&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;name&#34;/&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;email&#34;&gt;Email Address&lt;/label&gt;&#xD;&#xA;    &lt;input type=&#34;email&#34; id=&#34;email&#34; name=&#34;email&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn&#34;  required placeholder=&#34; &#34;  aria-labelledby=&#34;email&#34;/&gt;&#xD;&#xA;    &lt;div class=&#34;requirements f6 gray glow i ph3 overflow-hidden&#34;&gt;&#xD;&#xA;      An email address is required.&#xD;&#xA;    &lt;/div&gt;&#xD;&#xA;&#xD;&#xA;    &lt;label class=&#34;f6 b db mb1 mt3 sans-serif mid-gray&#34; for=&#34;message&#34;&gt;Message&lt;/label&gt;&#xD;&#xA;    &lt;textarea id=&#34;message&#34; name=&#34;message&#34; class=&#34;w-100 f5 pv3 ph3 bg-light-gray bn h4&#34; aria-labelledby=&#34;message&#34;&gt;&lt;/textarea&gt;&#xD;&#xA;&#xD;&#xA;    &lt;input class=&#34;db w-100 mv2 white pa3 bn hover-shadow hover-bg-black bg-animate bg-black&#34; type=&#34;submit&#34; value=&#34;Send&#34; /&gt;&#xD;&#xA;&#xD;&#xA;&lt;/form&gt;</description>
+    </item>
+    <item>
+      <title>Shreyas Agarwal</title>
+      <link>http://localhost:1313/projects/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/publications/</guid>
+      <description>&lt;p&gt;Welcome to my blog with some of my work in progress. I&amp;rsquo;ve been working on this book idea. You can read some of the chapters below.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

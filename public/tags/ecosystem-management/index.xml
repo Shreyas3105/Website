@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ecosystem Management on Shreyas Agarwal</title>
+    <link>http://localhost:1313/tags/ecosystem-management/</link>
+    <description>Recent content in Ecosystem Management on Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/ecosystem-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Temporal and Spatial Stability of Plant Pollinator Networks in Coffee Agroforests</title>
+      <link>http://localhost:1313/projects/chapter-1/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/projects/chapter-1/</guid>
+      <description>&lt;p&gt;The coffee agroforests of India host diverse plant-pollinator networks that contribute significantly to both agricultural productivity and biodiversity conservation. Understanding the temporal and spatial stability of these networks is crucial to identifying factors that sustain ecosystem services while balancing the economic needs of coffee farmers. This research project aims to investigate how seasonal changes, habitat heterogeneity, and farming practices affect the structure and stability of plant-pollinator interactions in coffee agroforests.&#xA;By studying temporal variations (e.g., seasonal blooming and pollinator activity) and spatial variations (e.g., farm size and native versus exotic tree cover), this research seeks to provide actionable insights into promoting resilience in these ecosystems.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

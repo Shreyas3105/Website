@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Shreyas Agarwal</title>
+    <link>http://localhost:1313/tags/</link>
+    <description>Recent content in Tags on Shreyas Agarwal</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Apr 2024 10:58:08 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ecosystem Management</title>
+      <link>http://localhost:1313/tags/ecosystem-management/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ecosystem-management/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ETH Zurich</title>
+      <link>http://localhost:1313/tags/eth-zurich/</link>
+      <pubDate>Tue, 09 Apr 2024 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/tags/eth-zurich/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>ELE</title>
+      <link>http://localhost:1313/tags/ele/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ele/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IISER Kolkata</title>
+      <link>http://localhost:1313/tags/iiser-kolkata/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/tags/iiser-kolkata/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MS Project</title>
+      <link>http://localhost:1313/tags/ms-project/</link>
+      <pubDate>Sat, 01 Apr 2023 10:58:08 -0400</pubDate>
+      <guid>http://localhost:1313/tags/ms-project/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
