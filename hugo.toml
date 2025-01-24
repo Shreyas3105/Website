@@ -1,7 +1,7 @@
 baseURL = 'https://Shreyas3105.github.io/Website/'
 languageCode = 'en-us'
 title = 'Personal Website - Shreyas Agarwal'
-theme = 'beautifulhugo'
+theme = 'gohugo-theme-ananke'
  
 [menu]
 [[menu.main]]
