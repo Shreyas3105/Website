@@ -1,25 +1,25 @@
-baseURL = 'https://Shreyas3105.github.io/Website/'
+baseURL = 'https://Shreyas3105.github.io/portfolio/'
 languageCode = 'en-us'
-title = 'Personal Website - Shreyas Agarwal'
+title = 'Shreyas Agarwal'
 theme = 'gohugo-theme-ananke'
  
 [menu]
 [[menu.main]]
-    name = "Home"
+    name = "HOME"
     url = "/"
     weight = 1
  
   [[menu.main]]
-    name = "Projects"
+    name = "PROJECTS"
     url = "/projects/"
     weight = 2
  
   [[menu.main]]
-    name = "Publications"
+    name = "RESEARCH"
     url = "/publications/"
     weight = 3
  
   [[menu.main]]
-    name = "About"
+    name = "ABOUT ME"
     url = "/about/"
     weight = 5
