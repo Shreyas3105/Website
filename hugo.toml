@@ -1,4 +1,4 @@
-baseURL = 'https://Shreyas3105.github.io/portfolio/'
+baseURL = 'https://Shreyas3105.github.io/Website/'
 languageCode = 'en-us'
 title = 'Shreyas Agarwal'
 theme = 'gohugo-theme-ananke'
